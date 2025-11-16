@@ -1,0 +1,23 @@
+task-manager-frontend/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── TaskList.js
+│   │   ├── TaskItem.js
+│   │   ├── TaskForm.js
+│   │   ├── Settings.js
+│   │   └── BackupRestore.js
+│   ├── services/
+│   │   ├── api.js
+│   │   ├── taskService.js
+│   │   ├── settingsService.js
+│   │   └── backupService.js
+│   ├── hooks/
+│   │   └── useTasks.js
+│   ├── styles/
+│   │   └── App.css
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── .env

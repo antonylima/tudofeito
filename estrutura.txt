@@ -1,0 +1,20 @@
+task-manager-backend/
+├── src/
+│   ├── controllers/
+│   │   ├── taskController.js
+│   │   ├── settingsController.js
+│   │   └── backupController.js
+│   ├── models/
+│   │   ├── Task.js
+│   │   └── Settings.js
+│   ├── routes/
+│   │   ├── tasks.js
+│   │   ├── settings.js
+│   │   └── backup.js
+│   ├── middleware/
+│   │   └── errorHandler.js
+│   ├── database/
+│   │   └── db.js
+│   └── app.js
+├── package.json
+└── server.js
