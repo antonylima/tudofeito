@@ -1,4 +1,4 @@
-task-manager-backend/node-modules
+task-manager-backend/node-modules/
 task-manager-backend/.env
-task-manager-frontend/node-modules
+task-manager-frontend/node-modules/
 task-manager-frontend/.env
